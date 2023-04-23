@@ -9,3 +9,5 @@
 请找到和最小的 k 个数对 (u1,v1),  (u2,v2)  ...  (uk,vk) 。
 
 nums
+
+coding
